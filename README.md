@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>Hello World! I'm Lem0nilovs⭐<br>
+Welcome to my github Universe! </h2>
+
 ![lem0nilovs](video/lem0nilovs.gif)
-<h2 align="center">Hello World! I'm Lem0nilovs⭐<br>
-Welcome to my github Universe!
 
 
 #### 
 
-<div align="center">
+<div align="left">
 <h4> 🔗 Connect With Me </h4>
 
 <a href="https://www.instagram.com/pnieeyyy_?igsh=MTFpcXk0bm44ejlmbQ==" target="_blank">
@@ -38,7 +39,7 @@ Welcome to my github Universe!
 
 ####
 
-<h4 align="center">play games with me</h4>
+<h4 align="left">play games with me</h4>
 
 ####
 
