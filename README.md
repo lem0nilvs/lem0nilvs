@@ -50,6 +50,7 @@ Welcome to my github Universe! </h2>
 
 ####
 
+<img src="https://raw.githubusercontent.com/lem0nilvs/lem0nilvs/output/pacman-contribution-graph.svg" />
 <img src="https://raw.githubusercontent.com/lem0nilvs/lem0nilvs/output/snake.svg" alt="Snake animation" />
 
 ####
