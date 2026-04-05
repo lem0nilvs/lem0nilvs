@@ -13,31 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hello World! I'm Lem0nilovs⭐<br>
-Welcome to my github Universe! </h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-![lem0nilovs](video/lem0nilovs.gif)
+  <!-- GIF dari folder -->
+  <img src="gif/lem0nilovs.gif" width="450"/>
 
+  <!-- Text -->
+  <div>
+    <h2>Hello World! I'm Lem0nilovs⭐<br>
+    Welcome to my github Universe!</h2>
+    <h4>🔗 Connect With Me</h4>
+    <p>
+      <a href="https://instagram.com/username">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+      </a>
+      <a href="https://discord.com/users/id">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"/>
+      </a>
+      <a href="https://t.me/username">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/>
+      </a>
+    </p>
+  </div>
 
-#### 
+</div>
 
-<div align="left">
-<h4> 🔗 Connect With Me </h4>
-
-<a href="https://www.instagram.com/pnieeyyy_?igsh=MTFpcXk0bm44ejlmbQ==" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-</a>
-
-<a href="https://discord.com/users/ID_DISCORD" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-</a>
-
-<a href="http://t.me/piraeby" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>
-</a>
-</div> 
-
-####
 
 <h4 align="left">play games with me</h4>
 
