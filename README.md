@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="gif/lem0nilovs.gif" width="500"/>
+      <img src="gif/lem0nilovs.gif" width="450"/>
     </td>
     <td>
       <h2>Hello World! I'm Lem0nilovs⭐<br>
@@ -38,29 +38,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-#### 
-
-<div align="left">
-<h3> 🔗 Connect With Me </h3>
-
-<a href="https://www.instagram.com/pnieeyyy_?igsh=MTFpcXk0bm44ejlmbQ==" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-</a>
-
-<a href="https://discord.com/users/ID_DISCORD" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-</a>
-
-<a href="http://t.me/piraeby" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>
-</a>
-</div> 
-
-####
-
-<h4 align="left">play games with me</h4>
-
-####
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lem0nilvs/lem0nilvs/output/pacman-contribution-graph-dark.svg">
