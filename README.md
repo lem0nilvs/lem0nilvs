@@ -20,8 +20,8 @@ Here are some ideas to get you started:
       <img src="gif/lem0nilovs.gif" width="450"/>
     </td>
     <td>
-      <h2>Hello World! I'm Lem0nilovs⭐<br>
-      Welcome to my github Universe!</h2>
+      <h1>Hello World! I'm Lem0nilovs⭐<br>
+      Welcome to my github Universe!</h1>
       <h3>🔗 Connect With Me</h3>
       <p>
         <a href="https://www.instagram.com/pnieeyyy_?igsh=MTFpcXk0bm44ejlmbQ==">
