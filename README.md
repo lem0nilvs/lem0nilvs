@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="gif/lem0nilovs.gif" width="450"/>
+      <img src="gif/lem0nilovs.gif" width="400"/>
     </td>
     <td>
       <h1>Hello World! I'm Lem0nilovs⭐<br>
